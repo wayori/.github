@@ -1,6 +1,6 @@
 # Welcome to Wayori's GitHub organisation!
 
-*Wayori / 話拠り（わより）* is an open source anime scene search engine. You can find links to useful resources about the project below.
+**Wayori / <ruby>話<rp>（</rp><rt>わ</rt><rp>）</rp>より</ruby>** is an open source anime scene search engine. You can find links to useful resources about the project below.
 
 > [!NOTE]
 > The project is still under development and not production ready, for the latest updates visit our [discord server](https://discord.gg/K9jn6Kj).
@@ -25,8 +25,8 @@
 The project started off as an optimisation for the existing trace.moe project.
 Reducing resource usage and improving search query results to milliseconds.
 
-#### 名前の由来 / Origin of the name
-このシーンは何話より？ Which episode is this scene from?
+#### Origin of the name
+The name **Wayori** comes from Japanese: このシーンは何話より (kono shīn wa nan-**wa yori**). Meaning which episode does this scene come from. So the name pronounces as wa-yori, not way-ori.
 
 # Everything else
 
